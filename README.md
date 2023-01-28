@@ -1,2 +1,2 @@
 # First-Repository
-This is arepository for educational purposes.
+This is a repository for educational purposes.
